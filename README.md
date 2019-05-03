@@ -8,7 +8,7 @@ Topics:
 
 In this project, our design team has already built an HTML/CSS web page for us, our job is to add javascript functionality.
 
-## Set Up The Project With Git
+## Set Up The Project With Git 1
 
 **Follow these steps to set up and work on your project:**
 
